@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 0.5em #ddd;
+		border-left: solid 0.5em #dddddd;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
@@ -1655,7 +1655,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f98780;
+			background-color: #80aaf9;
 		}
 
 		input[type="button"].large,
@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #7096e9 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1681,7 +1681,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #f98780;
+				background-color: #80a0f9;
 			}
 
 			input[type="button"].style1:active,
@@ -1689,7 +1689,7 @@ input, select, textarea {
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #d96760;
+				background-color: #6074d9;
 			}
 
 		input[type="button"].style2,
@@ -1724,7 +1724,7 @@ input, select, textarea {
 		button.style3,
 		.button.style3 {
 			background: #2f333b url("images/overlay.png");
-			color: #fff;
+			color: #ffffff;
 		}
 
 			input[type="button"].style3:hover,
@@ -2002,14 +2002,14 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
-			color: #eee;
+			background: #7086e9 url("images/overlay.png");
+			color: #eeeeee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
-				color: #fff;
+				background: #7088e9 url("images/overlay.png");
+				color: #ffffff;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -2092,7 +2092,7 @@ input, select, textarea {
 		#logo h1 {
 			font-weight: 900;
 			text-transform: uppercase;
-			color: #fff;
+			color: #ffffff;
 			font-size: 2em;
 			letter-spacing: 0.25em;
 		}
