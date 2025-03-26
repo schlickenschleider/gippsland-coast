@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #7096e9 url("images/overlay.png");
+			background: #1643a4 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -2002,7 +2002,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #7086e9 url("images/overlay.png");
+			background: #b6bee4 url("images/overlay.png");
 			color: #eeeeee;
 			color: rgba(255, 255, 255, 0.75);
 		}
